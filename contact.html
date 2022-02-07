@@ -100,7 +100,12 @@
                 alert('Phone field is required.');
                 return;
             }
+            if(!$('textarea[name=message]').val()){
+                alert('Message field is required.');
+                return;
+            }
     
+            $('#success_message').show();    
 
         });
     </script>
