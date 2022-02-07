@@ -8,7 +8,11 @@ body{
     color: #ffffff;
 }
 
-
+.dislike{
+    background-color: #dc3545;
+    border-color: #dc3545;
+    color: #ffffff;
+}
 
 
 .carousel-item img {
