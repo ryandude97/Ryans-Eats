@@ -19,3 +19,8 @@ body{
     height: 33rem;
 }
 
+
+.navbar.navbar-dark .navbar-nav .nav-link:hover  {
+    color: rgb(0, 0, 0);
+ }
+ 
