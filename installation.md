@@ -1,0 +1,1 @@
+Hello. Installation is fairly simple. Just go to github and download the source code of the project. You will want a code editor, so I recommend visual studio code. Use the live server feature to look at the applicaton once all the files are downloaded. 
